@@ -1,5 +1,0 @@
-desenvolver um sistema de recomendação de musica que utiliza grafos para identificar padrões de escuta e sugerir novas faixas aos usuários. o sistema deve ser capaz de:
-
-- Representar usuários, músicas, artistas, gêneros como nós em um grafo.
-- Representar interações(como escutar, curtir, seguir) como arestas com propriedade.
-- Utilizar consultas Cypher para gerar recomendações personalizadas com base em conexões no grafo
