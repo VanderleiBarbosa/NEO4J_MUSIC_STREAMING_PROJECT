@@ -1,9 +1,9 @@
-personId,name,email,age,gender,country,city,language,subscriber,signup_date,listening_time,device
+userId,name,email,age,gender,country,city,language,subscriber,signup_date,listening_time,device
 1,Jack Phillip,jack.phillip@email.com,32,M,USA,Texas,en,TRUE,2025-04-27,night,mobile
-2,Lucas Martins,lucas.martins@email.com,31,M,Brazil,São Paulo,pt,TRUE,2022-11-02,morning,desktop
+2,Lucas Martins,lucas.martins@email.com,31,M,Brazil,SÃ£o Paulo,pt,TRUE,2022-11-02,morning,desktop
 3,Sofia Almeida,sofia.almeida@email.com,22,F,Brazil,Rio de Janeiro,pt,FALSE,2024-01-10,night,mobile
 4,Daniel Schmidt,daniel.schmidt@email.com,45,M,Germany,Berlin,de,TRUE,2021-06-25,afternoon,tablet
-5,Ana López,ana.lopez@email.com,29,F,Spain,Madrid,es,TRUE,2023-08-19,evening,mobile
+5,Ana LÃ³pez,ana.lopez@email.com,29,F,Spain,Madrid,es,TRUE,2023-08-19,evening,mobile
 6,James Carter,james.carter@email.com,37,M,USA,Chicago,en,FALSE,2020-12-05,morning,desktop
 7,Marina Costa,marina.costa@email.com,34,F,Brazil,Curitiba,pt,TRUE,2022-04-17,afternoon,mobile
 8,Kenji Tanaka,kenji.tanaka@email.com,26,M,Japan,Tokyo,ja,TRUE,2023-09-30,night,mobile
@@ -11,11 +11,11 @@ personId,name,email,age,gender,country,city,language,subscriber,signup_date,list
 10,Rafael Pereira,rafael.pereira@email.com,41,M,Brazil,Belo Horizonte,pt,TRUE,2021-10-03,morning,desktop
 11,Isabella Rossi,isabella.rossi@email.com,24,F,Italy,Milan,it,TRUE,2023-05-22,afternoon,mobile
 12,Pedro Santos,pedro.santos@email.com,36,M,Brazil,Porto Alegre,pt,FALSE,2020-07-14,night,desktop
-13,Chloé Dubois,chloe.dubois@email.com,27,F,France,Paris,fr,TRUE,2022-09-09,evening,mobile
+13,ChloÃ© Dubois,chloe.dubois@email.com,27,F,France,Paris,fr,TRUE,2022-09-09,evening,mobile
 14,Michael Lee,michael.lee@email.com,33,M,USA,San Francisco,en,TRUE,2021-03-18,morning,laptop
 15,Beatriz Lima,beatriz.lima@email.com,21,F,Brazil,Salvador,pt,FALSE,2024-01-05,afternoon,mobile
 16,Ahmed Hassan,ahmed.hassan@email.com,39,M,Egypt,Cairo,ar,TRUE,2019-11-27,night,mobile
 17,Laura Smith,laura.smith@email.com,52,F,USA,Boston,en,TRUE,2018-05-14,morning,tablet
-18,Gabriel Nunes,gabriel.nunes@email.com,28,M,Brazil,Florianópolis,pt,TRUE,2023-10-12,evening,mobile
+18,Gabriel Nunes,gabriel.nunes@email.com,28,M,Brazil,FlorianÃ³polis,pt,TRUE,2023-10-12,evening,mobile
 19,Valentina Ruiz,valentina.ruiz@email.com,23,F,Argentina,Buenos Aires,es,FALSE,2024-02-02,night,mobile
-20,Thomas Müller,thomas.muller@email.com,47,M,Germany,Hamburg,de,TRUE,2020-08-21,afternoon,desktop
+20,Thomas MÃ¼ller,thomas.muller@email.com,47,M,Germany,Hamburg,de,TRUE,2020-08-21,afternoon,desktop
